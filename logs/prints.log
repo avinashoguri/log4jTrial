@@ -1,0 +1,4 @@
+17:07:09.735 [main] DEBUG alfa.Demo - debugging demo
+17:07:09.737 [main] ERROR alfa.Demo - error log demo
+17:07:09.737 [main] TRACE alfa.Demo - log tracing demo 
+17:07:09.738 [main] INFO  alfa.Demo - log information demo
