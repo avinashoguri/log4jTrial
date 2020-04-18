@@ -19,6 +19,8 @@ public class Demo {
 		log.trace("log tracing demo ");
 		log.info("log information demo");
 		System.out.println("done");
+		System.out.println("done test");
+		
 		
 
 	}
